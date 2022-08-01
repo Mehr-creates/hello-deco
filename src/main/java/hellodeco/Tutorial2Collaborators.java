@@ -19,7 +19,7 @@ public class Tutorial2Collaborators extends AbstractCollaboratorsList {
 		/*
 		 * Below, insert a new line adding yourself to the collaborators list.
 		 *
-		 * NOTE: Ensure you maintain alphabetical order.  
+		 * NOTE: Ensure you maintain alphabetical order.
 		 */
 
 		collaborators.add(new DecoPerson("Aaron Coox", "a-coox", "Tutor"));
@@ -30,5 +30,6 @@ public class Tutorial2Collaborators extends AbstractCollaboratorsList {
 		collaborators.add(new DecoPerson("Nathan Corcoran", "usrnatc", "Student"));
 		collaborators.add(new DecoPerson("Richard Thomas", "applebyter", "Course Coordinator"));
 		collaborators.add(new DecoPerson("Rick Astley", "NeverGonnaGive", "Student"));
+		collaborators.add(new DecoPerson("Satya Bhasale", "Satya Bhasale", "Student"));
 	}
 }
