@@ -45,7 +45,6 @@ public class Tutorial1Collaborators extends AbstractCollaboratorsList {
         collaborators.add(new DecoPerson("Satya Bhasale", "Satya Bhasale", "Student"));
         collaborators.add(new DecoPerson("Shiyu Liu", "11shiyu", "Student"));
         collaborators.add(new DecoPerson("Syed Muhammad Zahir", "Syed Muhammad Zahir", "Student"));
-        collaborators.add(new DecoPerson("Sylvia Chen","syl2211","Student"));
         collaborators.add(new DecoPerson("Tara-Jade Garnsworthy", "tgarnsworthy", "Student"));
         collaborators.add(new DecoPerson("Wenfang Hao", "wenfangH", "Student"));
         collaborators.add(new DecoPerson("Wishnu Hazmi Lazuardi", "hazlazuardi", "Student"));
@@ -53,6 +52,5 @@ public class Tutorial1Collaborators extends AbstractCollaboratorsList {
         collaborators.add(new DecoPerson("Yingzheng Cai", "Rey-666", "Student"));
         collaborators.add(new DecoPerson("Yolanda Wintari Sirait", "yolandawsirait", "Student"));
         collaborators.add(new DecoPerson("Zhiyuan Xu", "DLAmeng", "Student"));
-
     }
 }
