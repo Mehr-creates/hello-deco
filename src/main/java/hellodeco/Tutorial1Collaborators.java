@@ -24,9 +24,11 @@ public class Tutorial1Collaborators extends AbstractCollaboratorsList {
         collaborators.add(new DecoPerson("Aaron Coox", "a-coox", "Tutor"));
         collaborators.add(new DecoPerson("Abigail Borromeo", "Abi-B-28", "Student"));
         collaborators.add(new DecoPerson("Alysha Ismail", "alyshaziya", "Student"));
+        collaborators.add(new DecoPerson("Aleksandr Siroki", "a-siroki", "Student"));
         collaborators.add(new DecoPerson("Anastasia Laczko", "StasiaL", "Tutor"));
         collaborators.add(new DecoPerson("Bokai Zhang", "hideonbush-crl", "Student"));
         collaborators.add(new DecoPerson("Caleb Ang", "PurrplePandaa", "Student"));
+        collaborators.add(new DecoPerson("Chaitanya Dasi Luanzon", "cluanzon", "Student"));
         collaborators.add(new DecoPerson("Connor Ryan", "Connor-Ryan-1998", "Student"));
         collaborators.add(new DecoPerson("Emily southgate", "e-southgate", "Student"));
         collaborators.add(new DecoPerson("Enoe Gapusan (Jolo)", "jgapusan", "Student"));
