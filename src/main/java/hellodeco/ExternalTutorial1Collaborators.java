@@ -44,6 +44,8 @@ public class ExternalTutorial1Collaborators extends AbstractCollaboratorsList {
         collaborators.add(new DecoPerson("Yufan Chen", "snakefen", "Student"));
         collaborators.add(new DecoPerson("Yuqiao Tong", "CodingDavid2", "Student"));
         collaborators.add(new DecoPerson("Zihao Xia", "zihao-xia", "Student"));
+        collaborators.add(new DecoPerson("Qing Zhang", "Versprechen080", "Student"));
+
     }
 }
 
