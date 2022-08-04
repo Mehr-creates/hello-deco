@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hellodeco.CollaboratorsTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2022-08-04T23:41:30" hostname="TITO" time="0.041">
+  <properties/>
+  <testcase name="external1TestAlphabetical" classname="hellodeco.CollaboratorsTest" time="0.021"/>
+  <testcase name="tutorial3TestAlphabetical" classname="hellodeco.CollaboratorsTest" time="0.002"/>
+  <testcase name="tutorial1TestNotNull" classname="hellodeco.CollaboratorsTest" time="0.0"/>
+  <testcase name="tutorial2TestNotNull" classname="hellodeco.CollaboratorsTest" time="0.001"/>
+  <testcase name="tutorial3TestNotNull" classname="hellodeco.CollaboratorsTest" time="0.0"/>
+  <testcase name="tutorial1TestRickAstleyIsStillThere" classname="hellodeco.CollaboratorsTest" time="0.001"/>
+  <testcase name="tutorial1TestAlphabetical" classname="hellodeco.CollaboratorsTest" time="0.004"/>
+  <testcase name="external1TestNotNull" classname="hellodeco.CollaboratorsTest" time="0.001"/>
+  <testcase name="tutorial2TestRickAstleyIsStillThere" classname="hellodeco.CollaboratorsTest" time="0.002"/>
+  <testcase name="external1TestRickAstleyIsStillThere" classname="hellodeco.CollaboratorsTest" time="0.001"/>
+  <testcase name="tutorial2TestAlphabetical" classname="hellodeco.CollaboratorsTest" time="0.002"/>
+  <testcase name="tutorial3TestRickAstleyIsStillThere" classname="hellodeco.CollaboratorsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
