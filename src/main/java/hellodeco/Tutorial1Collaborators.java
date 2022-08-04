@@ -22,6 +22,7 @@ public class Tutorial1Collaborators extends AbstractCollaboratorsList {
          * NOTE: Ensure you maintain alphabetical order.
          */
         collaborators.add(new DecoPerson("Aaron Coox", "a-coox", "Tutor"));
+        collaborators.add(new DecoPerson("Abigail Borromeo", "Abi-B-28", "Student"));
         collaborators.add(new DecoPerson("Alysha Ismail", "alyshaziya", "Student"));
         collaborators.add(new DecoPerson("Anastasia Laczko", "StasiaL", "Tutor"));
         collaborators.add(new DecoPerson("Bokai Zhang", "hideonbush-crl", "Student"));
@@ -69,7 +70,6 @@ public class Tutorial1Collaborators extends AbstractCollaboratorsList {
         collaborators.add(new DecoPerson("Yongzhi ZHOU", "45229848", "Student"));
         collaborators.add(new DecoPerson("Zhiyuan Xu", "DLAmeng", "Student"));
         collaborators.add(new DecoPerson("Zhuohang Song", "AndySong-2324", "Student"));
-        collaborators.add(new DecoPerson("Abigail Borromeo", "Abi-B-28", "Student"));
 
     }
 }
