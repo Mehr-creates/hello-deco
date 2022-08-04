@@ -39,6 +39,7 @@ public class Tutorial2Collaborators extends AbstractCollaboratorsList {
 		collaborators.add(new DecoPerson("Rick Astley", "NeverGonnaGive", "Student"));
 		collaborators.add(new DecoPerson("Satya Bhasale", "Satya Bhasale", "Student"));
 		collaborators.add(new DecoPerson("Tayla Ward", "taylaward", "Student"));
+		collaborators.add(new DecoPerson("Chol Nhial Chol", "cholnhial", "Student"));
 
 
 	}
