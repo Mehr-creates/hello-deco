@@ -25,6 +25,7 @@ public class ExternalTutorial1Collaborators extends AbstractCollaboratorsList {
         collaborators.add(new DecoPerson("Aaron Coox", "a-coox", "Tutor"));
         collaborators.add(new DecoPerson("Anastasia Laczko", "StasiaL", "Tutor"));
         collaborators.add(new DecoPerson("Bohan Zhao", "Bohankkk", "Student"));
+        collaborators.add(new DecoPerson("Changxu Zhou", "Jasonzcx", "Student"));
         collaborators.add(new DecoPerson("Chi Heng Jeffrey Hui", "jeffjeffUQ", "Student"));
         collaborators.add(new DecoPerson("Guowei Yang", "guoweiyang", "Lecturer"));
         collaborators.add(new DecoPerson("Hengyuan Lu", "Awe5omeTired", "Student"));
@@ -47,6 +48,7 @@ public class ExternalTutorial1Collaborators extends AbstractCollaboratorsList {
         collaborators.add(new DecoPerson("Yaojun Tan", "PendaZz", "Student"));
         collaborators.add(new DecoPerson("Yifei Liu", "liu8868", "Student"));
         collaborators.add(new DecoPerson("Yingxin Liu", "LIU-Evelyn", "Student"));
+        collaborators.add(new DecoPerson("Yu Ouyang", "YuOuyang99", "Student"));
         collaborators.add(new DecoPerson("Yufan Chen", "snakefen", "Student"));
         collaborators.add(new DecoPerson("Yuqiao Tong", "CodingDavid2", "Student"));
         collaborators.add(new DecoPerson("Zihao Xia", "zihao-xia", "Student"));
