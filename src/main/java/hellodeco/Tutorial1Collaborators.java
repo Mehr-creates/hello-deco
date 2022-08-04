@@ -65,6 +65,7 @@ public class Tutorial1Collaborators extends AbstractCollaboratorsList {
         collaborators.add(new DecoPerson("Wishnu Hazmi Lazuardi", "hazlazuardi", "Student"));
         collaborators.add(new DecoPerson("Yash Sharma", "Yash20Sharma", "Student"));
         collaborators.add(new DecoPerson("Yashvardhan Batra", "yashvardhanbatra", "Student"));
+        collaborators.add(new DecoPerson("Yi Zhou", "MandalorianForce", "Student"));
         collaborators.add(new DecoPerson("Yibo Liu", "rlybgithub", "Student"));
         collaborators.add(new DecoPerson("Yin Fang", "aalice23", "Student"));
         collaborators.add(new DecoPerson("Yingzheng Cai", "Rey-666", "Student"));
