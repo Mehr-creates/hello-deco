@@ -5,13 +5,6 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/hello-deco.iml" filepath="$PROJECT_DIR$/.idea/hello-deco.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hello-deco.main.iml" filepath="$PROJECT_DIR$/.idea/modules/hello-deco.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hello-deco.test.iml" filepath="$PROJECT_DIR$/.idea/modules/hello-deco.test.iml" />
-<<<<<<< HEAD
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/helloDECO.hello-deco.main.iml" filepath="$PROJECT_DIR$/.idea/modules/helloDECO.hello-deco.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/helloDECO.hello-deco.test.iml" filepath="$PROJECT_DIR$/.idea/modules/helloDECO.hello-deco.test.iml" />
-=======
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shittyWeek2.hello-deco.main.iml" filepath="$PROJECT_DIR$/.idea/modules/shittyWeek2.hello-deco.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shittyWeek2.hello-deco.test.iml" filepath="$PROJECT_DIR$/.idea/modules/shittyWeek2.hello-deco.test.iml" />
->>>>>>> 64a892fada1fbef7e27eb8e2f1e0d4e00f1f14ac
     </modules>
   </component>
 </project>
