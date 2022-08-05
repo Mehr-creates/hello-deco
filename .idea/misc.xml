@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="11" project-jdk-type="JavaSDK">
+=======
+<<<<<<< HEAD
+=======
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
+>>>>>>> 10192750b0cdca6d0a0652007c5dcd5147c1c67d
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="17" project-jdk-type="JavaSDK">
+>>>>>>> 77564d96b48f33c2eade2cebfe6203b4ee08e173
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
