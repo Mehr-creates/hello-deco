@@ -42,6 +42,7 @@ public class Tutorial2Collaborators extends AbstractCollaboratorsList {
 		collaborators.add(new DecoPerson("Hao Yang Wu", "whyhlf", "Student"));
 		collaborators.add(new DecoPerson("Heather Blakeway", "hblakeway", "Student"));
 		collaborators.add(new DecoPerson("Hugh Drummond", "hugh5", "Student"));
+		collaborators.add(new DecoPerson("Jessica Froio", "jessfroio", "Student"));
 		collaborators.add(new DecoPerson("Jiasheng Li", "JiashengLi", "Student"));
 		collaborators.add(new DecoPerson("Jonathan Allen", "Jonathan Allen", "Student"));
 		collaborators.add(new DecoPerson("Jordan Brewis Foulger", "jordanlbf", "Student"));
@@ -59,25 +60,16 @@ public class Tutorial2Collaborators extends AbstractCollaboratorsList {
 		collaborators.add(new DecoPerson("Rick Astley", "NeverGonnaGive", "Student"));
 		collaborators.add(new DecoPerson("Rohan Kollambalath", "rkoll55", "Student"));
 		collaborators.add(new DecoPerson("Seto Adhi Prasetyo", "setoaprasetyo", "Student"));
-		collaborators.add(new DecoPerson("Sheeha Mishra", "sheehamishra", "Student"));
 		collaborators.add(new DecoPerson("Siu Ming Lam", "TimothyLam123", "Student"));
 		collaborators.add(new DecoPerson("Sourav Roy Chowdhury", "Sourav-RC", "Student"));
 		collaborators.add(new DecoPerson("Tayla Ward", "taylaward", "Student"));
 		collaborators.add(new DecoPerson("Tian Yang Ooi", "DarrenOoi", "Student"));
 		collaborators.add(new DecoPerson("Wanqi Ma", "lalala66888", "Student"));
 		collaborators.add(new DecoPerson("Wenjing Shan", "45700703", "Student"));
-<<<<<<< HEAD
 		collaborators.add(new DecoPerson("Xi Wang", "XiWangBeryl", "Student"));
 		collaborators.add(new DecoPerson("Yashvardhan Batra", "yashvardhanbatra", "Student"));
 		collaborators.add(new DecoPerson("Yi Yang", "Tianyuanhaimo", "Student"));
 		collaborators.add(new DecoPerson("Yuhang Lin", "1023790021", "Student"));
-=======
-		collaborators.add(new DecoPerson("Xi Wang", "XiWangBeryl", "Student"));		
-		collaborators.add(new DecoPerson("Yashvardhan Batra", "yashvardhanbatra", "Student"));
-		collaborators.add(new DecoPerson("Yi Yang", "Tianyuanhaimo", "Student"));
-		collaborators.add(new DecoPerson("Yuhang Lin", "1023790021", "Student"));
-
->>>>>>> 10192750b0cdca6d0a0652007c5dcd5147c1c67d
 
 
 
