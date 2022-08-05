@@ -32,11 +32,15 @@ public class Tutorial3Collaborators extends AbstractCollaboratorsList {
         collaborators.add(new DecoPerson("Bailey Stoodley", "BaileyS03", "Student"));
         collaborators.add(new DecoPerson("Caitlenn Alsop", "c-alsop", "Student"));
         collaborators.add(new DecoPerson("Emma Schmidley", "schmidem", "Student"));
+        collaborators.add(new DecoPerson("Fengqi Yu", "Fengqi0822", "Student"));
         collaborators.add(new DecoPerson("Garryco Thandi", "Harqua", "Student"));
         collaborators.add(new DecoPerson("George Mihnea", "BozenX", "Tutor"));
         collaborators.add(new DecoPerson("Guowei Yang", "guoweiyang", "Lecturer"));
+        collaborators.add(new DecoPerson("Harold Hotma Sibuea", "HaroldHS", "Student"));
         collaborators.add(new DecoPerson("Hoang Viet Nguyen", "nhVietS", "Student"));
         collaborators.add(new DecoPerson("Jun Utsunomiya", "JunUtsunomiya", "Student"));
+        collaborators.add(new DecoPerson("Lungyu Lin", "LungYuLin", "Student"));
+        collaborators.add(new DecoPerson("Neha Tewari", "yobicakes", "Student"));
         collaborators.add(new DecoPerson("Nisha Vashist", "NishaVashist0", "Student"));
         collaborators.add(new DecoPerson("Pragun Ramesha", "Xodacan", "Student"));
         collaborators.add(new DecoPerson("Pratham Manocha", "prathammanocha", "Student"));
@@ -45,8 +49,8 @@ public class Tutorial3Collaborators extends AbstractCollaboratorsList {
         collaborators.add(new DecoPerson("Rick Astley", "NeverGonnaGive", "Student"));
         collaborators.add(new DecoPerson("Rohan Kollambalath", "rkoll55", "Student"));
         collaborators.add(new DecoPerson("Ryan Gibbons", "rjg1", "Student"));
-        collaborators.add(new DecoPerson("Sylvia Chen", "syl2211", "Student"));
         collaborators.add(new DecoPerson("Sam Behm", "SamBehm", "Student"));
+        collaborators.add(new DecoPerson("Sylvia Chen", "syl2211", "Student"));
         collaborators.add(new DecoPerson("Thomas Keevers", "Thomas Keevers", "Student"));
         collaborators.add(new DecoPerson("Tyler Tevita", "Tyler", "Student2"));
         collaborators.add(new DecoPerson("Viktor Milanov", "Viktor Milanov", "Student2"));
