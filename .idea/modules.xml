@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/hello-deco.iml" filepath="$PROJECT_DIR$/.idea/hello-deco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hello-deco.main.iml" filepath="$PROJECT_DIR$/.idea/modules/hello-deco.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hello-deco.test.iml" filepath="$PROJECT_DIR$/.idea/modules/hello-deco.test.iml" />
     </modules>
   </component>
 </project>
