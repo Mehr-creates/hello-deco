@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
 <<<<<<< HEAD
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK" />
+=======
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK" />
 =======
 <<<<<<< HEAD
@@ -17,4 +23,5 @@
 >>>>>>> 084726120ac76e215e34c7ca5eea5ec80b4e12ed
 >>>>>>> 79d704bf533c656d469dafc982767e2c09c8aa41
 >>>>>>> 0c4d5bacb072faabd52bf210cd82cd8a55300fb7
+>>>>>>> 23530ba3c188d7d88228e6b9e097ad4099cd4275
 </project>
