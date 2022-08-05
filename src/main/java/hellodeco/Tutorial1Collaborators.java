@@ -21,6 +21,7 @@ public class Tutorial1Collaborators extends AbstractCollaboratorsList {
          * 
          * NOTE: Ensure you maintain alphabetical order.
          */
+        collaborators.add(new DecoPerson("Aadya Bhatia", "abhat0", "Student"));
         collaborators.add(new DecoPerson("Aaron Coox", "a-coox", "Tutor"));
         collaborators.add(new DecoPerson("Abigail Borromeo", "Abi-B-28", "Student"));
         collaborators.add(new DecoPerson("Aleksandr Siroki", "a-siroki", "Student"));
