@@ -4,7 +4,11 @@
 <<<<<<< HEAD
     <bytecodeTargetLevel target="17" />
 =======
+<<<<<<< HEAD
+    <bytecodeTargetLevel target="17" />
+=======
     <bytecodeTargetLevel target="11" />
 >>>>>>> 084726120ac76e215e34c7ca5eea5ec80b4e12ed
+>>>>>>> 79d704bf533c656d469dafc982767e2c09c8aa41
   </component>
 </project>
