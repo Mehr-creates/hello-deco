@@ -1,17 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <testsuite name="hellodeco.CollaboratorsTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2022-08-05T03:55:49" hostname="LAPTOP-10KAQU1T" time="0.029">
   <properties/>
   <testcase name="external1TestAlphabetical" classname="hellodeco.CollaboratorsTest" time="0.017"/>
   <testcase name="tutorial3TestAlphabetical" classname="hellodeco.CollaboratorsTest" time="0.001"/>
+=======
+<<<<<<< HEAD
+<testsuite name="hellodeco.CollaboratorsTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2022-08-05T03:50:55" hostname="DESKTOP-7V47IBP" time="0.037">
+  <properties/>
+  <testcase name="external1TestAlphabetical" classname="hellodeco.CollaboratorsTest" time="0.02"/>
+=======
+<testsuite name="hellodeco.CollaboratorsTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2022-08-05T03:54:00" hostname="LAPTOP-INNAFUGK" time="0.027">
+  <properties/>
+  <testcase name="external1TestAlphabetical" classname="hellodeco.CollaboratorsTest" time="0.017"/>
+>>>>>>> 2a1c676c8719cdd2676444a710f59815703f81fd
+  <testcase name="tutorial3TestAlphabetical" classname="hellodeco.CollaboratorsTest" time="0.002"/>
+>>>>>>> d7c8edd5020094babe2463dd209b9b8a09d458bf
   <testcase name="tutorial1TestNotNull" classname="hellodeco.CollaboratorsTest" time="0.001"/>
   <testcase name="tutorial2TestNotNull" classname="hellodeco.CollaboratorsTest" time="0.0"/>
   <testcase name="tutorial3TestNotNull" classname="hellodeco.CollaboratorsTest" time="0.0"/>
   <testcase name="tutorial1TestRickAstleyIsStillThere" classname="hellodeco.CollaboratorsTest" time="0.001"/>
+<<<<<<< HEAD
   <testcase name="tutorial1TestAlphabetical" classname="hellodeco.CollaboratorsTest" time="0.002"/>
   <testcase name="external1TestNotNull" classname="hellodeco.CollaboratorsTest" time="0.001"/>
   <testcase name="tutorial2TestRickAstleyIsStillThere" classname="hellodeco.CollaboratorsTest" time="0.002"/>
   <testcase name="external1TestRickAstleyIsStillThere" classname="hellodeco.CollaboratorsTest" time="0.001"/>
   <testcase name="tutorial2TestAlphabetical" classname="hellodeco.CollaboratorsTest" time="0.002"/>
+=======
+<<<<<<< HEAD
+  <testcase name="tutorial1TestAlphabetical" classname="hellodeco.CollaboratorsTest" time="0.003"/>
+  <testcase name="external1TestNotNull" classname="hellodeco.CollaboratorsTest" time="0.0"/>
+  <testcase name="tutorial2TestRickAstleyIsStillThere" classname="hellodeco.CollaboratorsTest" time="0.001"/>
+  <testcase name="external1TestRickAstleyIsStillThere" classname="hellodeco.CollaboratorsTest" time="0.001"/>
+  <testcase name="tutorial2TestAlphabetical" classname="hellodeco.CollaboratorsTest" time="0.002"/>
+=======
+  <testcase name="tutorial1TestAlphabetical" classname="hellodeco.CollaboratorsTest" time="0.002"/>
+  <testcase name="external1TestNotNull" classname="hellodeco.CollaboratorsTest" time="0.0"/>
+  <testcase name="tutorial2TestRickAstleyIsStillThere" classname="hellodeco.CollaboratorsTest" time="0.0"/>
+  <testcase name="external1TestRickAstleyIsStillThere" classname="hellodeco.CollaboratorsTest" time="0.001"/>
+  <testcase name="tutorial2TestAlphabetical" classname="hellodeco.CollaboratorsTest" time="0.001"/>
+>>>>>>> 2a1c676c8719cdd2676444a710f59815703f81fd
+>>>>>>> d7c8edd5020094babe2463dd209b9b8a09d458bf
   <testcase name="tutorial3TestRickAstleyIsStillThere" classname="hellodeco.CollaboratorsTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
