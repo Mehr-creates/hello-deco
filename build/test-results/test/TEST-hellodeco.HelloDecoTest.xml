@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <testsuite name="hellodeco.HelloDecoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-08-05T03:43:11" hostname="VIET-PC" time="0.005">
+=======
+<testsuite name="hellodeco.HelloDecoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-08-05T03:42:38" hostname="LAPTOP-5OFSM2JF" time="0.012">
+>>>>>>> 51a858980e6edab5b5eb0b91fbf3237b176d2420
   <properties/>
-  <testcase name="mainTest" classname="hellodeco.HelloDecoTest" time="0.005"/>
+  <testcase name="mainTest" classname="hellodeco.HelloDecoTest" time="0.012"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
