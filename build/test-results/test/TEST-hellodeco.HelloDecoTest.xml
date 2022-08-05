@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="hellodeco.HelloDecoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-08-05T03:04:50" hostname="DESKTOP-09HPITB" time="0.002">
+<testsuite name="hellodeco.HelloDecoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-08-05T03:21:23" hostname="d-i89-146-82.student.eduroam.uq.edu.au" time="0.098">
   <properties/>
-  <testcase name="mainTest" classname="hellodeco.HelloDecoTest" time="0.002"/>
+  <testcase name="mainTest" classname="hellodeco.HelloDecoTest" time="0.098"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
