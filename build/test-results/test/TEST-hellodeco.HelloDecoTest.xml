@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="hellodeco.HelloDecoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-08-04T23:45:52" hostname="TITO" time="0.006">
+<testsuite name="hellodeco.HelloDecoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-08-05T01:24:25" hostname="mawanqideMacBook-Air-2.local" time="0.004">
   <properties/>
-  <testcase name="mainTest" classname="hellodeco.HelloDecoTest" time="0.006"/>
+  <testcase name="mainTest" classname="hellodeco.HelloDecoTest" time="0.004"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
