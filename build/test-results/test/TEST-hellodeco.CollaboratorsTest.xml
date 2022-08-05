@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="hellodeco.CollaboratorsTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2022-08-05T03:30:11" hostname="LAPTOP-5OFSM2JF" time="0.048">
+<testsuite name="hellodeco.CollaboratorsTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2022-08-05T03:41:38" hostname="LAPTOP-5OFSM2JF" time="0.041">
   <properties/>
-  <testcase name="external1TestAlphabetical" classname="hellodeco.CollaboratorsTest" time="0.02"/>
-  <testcase name="tutorial3TestAlphabetical" classname="hellodeco.CollaboratorsTest" time="0.004"/>
+  <testcase name="external1TestAlphabetical" classname="hellodeco.CollaboratorsTest" time="0.011"/>
+  <testcase name="tutorial3TestAlphabetical" classname="hellodeco.CollaboratorsTest" time="0.003"/>
   <testcase name="tutorial1TestNotNull" classname="hellodeco.CollaboratorsTest" time="0.0"/>
   <testcase name="tutorial2TestNotNull" classname="hellodeco.CollaboratorsTest" time="0.001"/>
   <testcase name="tutorial3TestNotNull" classname="hellodeco.CollaboratorsTest" time="0.0"/>
-  <testcase name="tutorial1TestRickAstleyIsStillThere" classname="hellodeco.CollaboratorsTest" time="0.005"/>
+  <testcase name="tutorial1TestRickAstleyIsStillThere" classname="hellodeco.CollaboratorsTest" time="0.004"/>
   <testcase name="tutorial1TestAlphabetical" classname="hellodeco.CollaboratorsTest" time="0.009"/>
   <testcase name="external1TestNotNull" classname="hellodeco.CollaboratorsTest" time="0.0"/>
   <testcase name="tutorial2TestRickAstleyIsStillThere" classname="hellodeco.CollaboratorsTest" time="0.002"/>
