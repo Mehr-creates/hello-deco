@@ -1,0 +1,29 @@
+### eclipse
+hellodeco/.classpath
+hellodeco/.project
+hellodeco/.settings
+hellodeco/.metadata
+.classpath
+.project
+.settings
+.metadata
+
+### gradle
+.gradle
+hellodeco/build/*
+hellodeco/bin/*
+gradle/
+build/
+hellodeco/gradle/
+local.properties
+
+### intellij
+.idea/
+*.iml
+*.ipr
+*.iws
+
+### everything else
+bin/
+.DS_STORE
+*.class

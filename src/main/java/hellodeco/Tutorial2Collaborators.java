@@ -48,6 +48,7 @@ public class Tutorial2Collaborators extends AbstractCollaboratorsList {
 		collaborators.add(new DecoPerson("Kaitlyn Lake", "kaitlyn-lake", "Student"));
 		collaborators.add(new DecoPerson("Kavya Menda", "KavyaMenda", "Student"));
 		collaborators.add(new DecoPerson("Lachlan McDonald", "Lukeyone", "Student"));
+		collaborators.add(new DecoPerson("LI-CHUAN YEH", "awesomedaniel2000", "Student"));
 		collaborators.add(new DecoPerson("Lorenzo Policar", "lorenzopolicar", "Student"));
 		collaborators.add(new DecoPerson("Michelle Sands", "MichelleAsWell", "Student"));
 		collaborators.add(new DecoPerson("Muhammad Zahran Agung Dewantoro", "zdewantoro", "Student"));
@@ -56,7 +57,6 @@ public class Tutorial2Collaborators extends AbstractCollaboratorsList {
 		collaborators.add(new DecoPerson("Richard Thomas", "applebyter", "Course Coordinator"));
 		collaborators.add(new DecoPerson("Rick Astley", "NeverGonnaGive", "Student"));
 		collaborators.add(new DecoPerson("Rohan Kollambalath", "rkoll55", "Student"));
-		collaborators.add(new DecoPerson("Satya Bhasale", "Satya Bhasale", "Student"));
 		collaborators.add(new DecoPerson("Seto Adhi Prasetyo", "setoaprasetyo", "Student"));
 		collaborators.add(new DecoPerson("Sheeha Mishra", "sheehamishra", "Student"));
 		collaborators.add(new DecoPerson("Siu Ming Lam", "TimothyLam123", "Student"));
@@ -65,9 +65,21 @@ public class Tutorial2Collaborators extends AbstractCollaboratorsList {
 		collaborators.add(new DecoPerson("Tian Yang Ooi", "DarrenOoi", "Student"));
 		collaborators.add(new DecoPerson("Wanqi Ma", "lalala66888", "Student"));
 		collaborators.add(new DecoPerson("Wenjing Shan", "45700703", "Student"));
-		collaborators.add(new DecoPerson("Xi Wang", "XiWangBeryl", "Student"));
 		collaborators.add(new DecoPerson("Yashvardhan Batra", "yashvardhanbatra", "Student"));
 		collaborators.add(new DecoPerson("Yi Yang", "Tianyuanhaimo", "Student"));
 		collaborators.add(new DecoPerson("Yuhang Lin", "1023790021", "Student"));
+		collaborators.add(new DecoPerson("Xi Wang", "XiWangBeryl", "Student"));
+
+
+
+
+
+
+
+
+
+
+
+
 	}
 }
