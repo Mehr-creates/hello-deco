@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<<<<<<< HEAD
-<testsuite name="hellodeco.HelloDecoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-08-05T04:05:56" hostname="DESKTOP-3BIVIAP" time="0.021">
+<testsuite name="hellodeco.HelloDecoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-08-05T05:19:04" hostname="LACHLAN-LENOVO" time="0.005">
   <properties/>
-  <testcase name="mainTest" classname="hellodeco.HelloDecoTest" time="0.021"/>
-=======
-<<<<<<< HEAD
-<testsuite name="hellodeco.HelloDecoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-08-05T03:55:49" hostname="LAPTOP-10KAQU1T" time="0.004">
-  <properties/>
-  <testcase name="mainTest" classname="hellodeco.HelloDecoTest" time="0.004"/>
-=======
-<<<<<<< HEAD
-<testsuite name="hellodeco.HelloDecoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-08-05T03:50:55" hostname="DESKTOP-7V47IBP" time="0.004">
-  <properties/>
-  <testcase name="mainTest" classname="hellodeco.HelloDecoTest" time="0.004"/>
-=======
-<testsuite name="hellodeco.HelloDecoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-08-05T03:54:00" hostname="LAPTOP-INNAFUGK" time="0.003">
-  <properties/>
-  <testcase name="mainTest" classname="hellodeco.HelloDecoTest" time="0.003"/>
->>>>>>> 2a1c676c8719cdd2676444a710f59815703f81fd
->>>>>>> d7c8edd5020094babe2463dd209b9b8a09d458bf
->>>>>>> 23530ba3c188d7d88228e6b9e097ad4099cd4275
+  <testcase name="mainTest" classname="hellodeco.HelloDecoTest" time="0.005"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
