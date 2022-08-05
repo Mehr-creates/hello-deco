@@ -33,11 +33,12 @@ public class Tutorial2Collaborators extends AbstractCollaboratorsList {
 		collaborators.add(new DecoPerson("Cliff Worsfold", "JumpOffACliffy", "Student"));
 		collaborators.add(new DecoPerson("Congxiao Zhou", "CongxiaoZhou", "Student"));
 		collaborators.add(new DecoPerson("Connor Ryan", "Connor-Ryan-1998", "Student"));
+		collaborators.add(new DecoPerson("Emily-Kate Williams", "ek-williams", "Student"));
 		collaborators.add(new DecoPerson("Futian Jiang", "FutianJiang", "Student"));
 		collaborators.add(new DecoPerson("George Mihnea", "BozenX", "Tutor"));
 		collaborators.add(new DecoPerson("Guowei Yang", "guoweiyang", "Lecturer"));
 		collaborators.add(new DecoPerson("Hannah Thaesler", "hthaesler", "Student"));
-                collaborators.add(new DecoPerson("Hao Yang Wu", "whyhlf", "Student"));
+		collaborators.add(new DecoPerson("Hao Yang Wu", "whyhlf", "Student"));
 		collaborators.add(new DecoPerson("Heather Blakeway", "hblakeway", "Student"));
 		collaborators.add(new DecoPerson("Hugh Drummond", "hugh5", "Student"));
 		collaborators.add(new DecoPerson("Jiasheng Li", "JiashengLi", "Student"));
@@ -65,5 +66,6 @@ public class Tutorial2Collaborators extends AbstractCollaboratorsList {
 		collaborators.add(new DecoPerson("Yi Yang", "Tianyuanhaimo", "Student"));
 		collaborators.add(new DecoPerson("Yuhang Lin", "1023790021", "Student"));
 		collaborators.add(new DecoPerson("Xi Wang", "XiWangBeryl", "Student"));
+		collaborators.add(new DecoPerson("Elias W Blanch",  "ew-b", "Student"));
 	}
 }
