@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="hellodeco.CollaboratorsTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2022-08-05T01:37:15" hostname="DESKTOP-VU5KGE5" time="0.016">
+<testsuite name="hellodeco.CollaboratorsTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2022-08-05T01:48:05" hostname="CAITYSPC" time="0.013">
   <properties/>
-  <testcase name="external1TestAlphabetical" classname="hellodeco.CollaboratorsTest" time="0.01"/>
-  <testcase name="tutorial3TestAlphabetical" classname="hellodeco.CollaboratorsTest" time="0.001"/>
+  <testcase name="external1TestAlphabetical" classname="hellodeco.CollaboratorsTest" time="0.008"/>
+  <testcase name="tutorial3TestAlphabetical" classname="hellodeco.CollaboratorsTest" time="0.0"/>
   <testcase name="tutorial1TestNotNull" classname="hellodeco.CollaboratorsTest" time="0.0"/>
-  <testcase name="tutorial2TestNotNull" classname="hellodeco.CollaboratorsTest" time="0.0"/>
+  <testcase name="tutorial2TestNotNull" classname="hellodeco.CollaboratorsTest" time="0.001"/>
   <testcase name="tutorial3TestNotNull" classname="hellodeco.CollaboratorsTest" time="0.0"/>
   <testcase name="tutorial1TestRickAstleyIsStillThere" classname="hellodeco.CollaboratorsTest" time="0.0"/>
   <testcase name="tutorial1TestAlphabetical" classname="hellodeco.CollaboratorsTest" time="0.002"/>
   <testcase name="external1TestNotNull" classname="hellodeco.CollaboratorsTest" time="0.0"/>
   <testcase name="tutorial2TestRickAstleyIsStillThere" classname="hellodeco.CollaboratorsTest" time="0.0"/>
   <testcase name="external1TestRickAstleyIsStillThere" classname="hellodeco.CollaboratorsTest" time="0.0"/>
-  <testcase name="tutorial2TestAlphabetical" classname="hellodeco.CollaboratorsTest" time="0.0"/>
+  <testcase name="tutorial2TestAlphabetical" classname="hellodeco.CollaboratorsTest" time="0.001"/>
   <testcase name="tutorial3TestRickAstleyIsStillThere" classname="hellodeco.CollaboratorsTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
