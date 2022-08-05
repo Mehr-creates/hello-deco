@@ -60,5 +60,6 @@ public class Tutorial2Collaborators extends AbstractCollaboratorsList {
 		collaborators.add(new DecoPerson("Yuhang Lin", "1023790021", "Student"));
 
 
+
 	}
 }
